@@ -13,7 +13,7 @@ i will add more as i find them
 
 ## How to use these in Aerial Companion
 
-Download the repo as a .zip file
+Download the repo as a .zip file by going [here](https://github.com/TheEpicStudent/AerialCustomScreensavers/archive/refs/heads/main.zip)
 
 unzip and put the "screensavers" folder in your user folder (command + shift + h)
 
